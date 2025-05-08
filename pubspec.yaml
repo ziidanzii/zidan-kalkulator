@@ -1,0 +1,44 @@
+name: kalkulator
+description: "Aplikasi Kalkulator Flutter dengan riwayat perhitungan dan profil."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+
+  # Untuk menambahkan splash screen native
+  flutter_native_splash: ^2.4.2
+  
+  flutter:
+    sdk: flutter
+
+  # Ikon iOS
+  cupertino_icons: ^1.0.8
+  
+  # Untuk mendukung ekspresi matematika lengkap (2+3*5-1)
+  math_expressions: ^2.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Tambahkan gambar untuk splash screen dan ikon profil
+  assets:
+    - assets/splash.png
+    - assets/profile.png
+
+flutter_native_splash:
+  android: true
+  ios: true
+  color: "#ffffff" # Background color of the splash screen
+  image: "assets/splash.png"
+  android_image: assets/splash.png
+  ios_image: assets/splash.png
