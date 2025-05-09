@@ -22,3 +22,8 @@ GitHub (Untuk version control)
 2.Jalankan perintah berikut : flutter run
 
 # Demo
+
+https://github.com/user-attachments/assets/02af63bf-326f-4f6e-acf8-e8a6e6f039bd
+
+# Identitas
+Nama : Azzidan irsyad nur rahmat Kelas : XI RPL 2 No Absen : 05 Sekolah : SMK N 1 BANTUL Email : azzidanirsyad@gmail.com
