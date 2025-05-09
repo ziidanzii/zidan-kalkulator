@@ -3,9 +3,11 @@ Deskripsi Aplikasi
 Callculator App adalah aplikasi kalkulator sederhana berbasis Flutter yang dapat melakukan operasi perhitungan dasar seperti penjumlahan, pengurangan, perkalian, dan pembagian. Aplikasi ini juga memiliki fitur riwayat perhitungan dan profil pengguna.
 
 # Software yang Digunakan
--Flutter (Dart)
--Visual Studio Code
--GitHub (Untuk version control)
+Flutter (Dart)
+
+Visual Studio Code
+
+GitHub (Untuk version control)
 
 # Cara Instalasi
 1.Pastikan Flutter sudah terinstall di perangkat Anda
