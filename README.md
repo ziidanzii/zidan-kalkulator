@@ -1,16 +1,22 @@
-# kalkulator
+# Callculator App
+Deskripsi Aplikasi
+Callculator App adalah aplikasi kalkulator sederhana berbasis Flutter yang dapat melakukan operasi perhitungan dasar seperti penjumlahan, pengurangan, perkalian, dan pembagian. Aplikasi ini juga memiliki fitur riwayat perhitungan dan profil pengguna.
 
-A new Flutter project.
+# Software yang Digunakan
+-Flutter (Dart)
+-Visual Studio Code
+-GitHub (Untuk version control)
 
-## Getting Started
+# Cara Instalasi
+1.Pastikan Flutter sudah terinstall di perangkat Anda
 
-This project is a starting point for a Flutter application.
+2.Clone repo ini git clone https://github.com/rafiibnugroho/callculator_flutter.git cd callculator_app
 
-A few resources to get you started if this is your first Flutter project:
+3.Jalankan flutter pub get untuk mengunduh dependensi
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Cara Menjalankan
+1.Buka terminal atau command prompt di dalam folder proyek.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2.Jalankan perintah berikut : flutter run
+
+# Demo
