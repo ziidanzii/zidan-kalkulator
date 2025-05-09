@@ -12,7 +12,7 @@ GitHub (Untuk version control)
 # Cara Instalasi
 1.Pastikan Flutter sudah terinstall di perangkat Anda
 
-2.Clone repo ini git clone https://github.com/rafiibnugroho/callculator_flutter.git cd callculator_app
+2.Clone repo ini git clone https://github.com/ziidanzii/zidan-kalkulator.git cd kalkulator
 
 3.Jalankan flutter pub get untuk mengunduh dependensi
 
